@@ -1,0 +1,5 @@
+numpy
+qiskit==0.40.0
+scipy
+matplotlib
+notebook
